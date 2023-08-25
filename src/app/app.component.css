@@ -1,0 +1,18 @@
+body {
+    background-color: Tomato;
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+
+  .center1 {
+    display: flex;
+    justify-content: center;
+  }
